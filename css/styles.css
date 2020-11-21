@@ -7,18 +7,16 @@ body{
 	color: #fff;
 	padding: 7% 15%;
 }
-h1{
-	
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Montserrat-Bold';
+}
+.big-heading{
 	size: 3rem;
 	line-height: 1.5;
 	font-weight: 900;
-	font-family: 'Montserrat';
-	font-weight: 900;
-
 }
 h2{
 	size: 3rem;
-	font-family: 'Montserrat';
 	font-weight: bold;
 }
 .container-fluid{
